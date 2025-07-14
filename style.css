@@ -52,3 +52,24 @@ li:hover {
     font-size: 20px;
 
 }
+
+.mail::before {
+    content: "";
+    display: inline-block;
+    width: 25px;  
+    height: 25px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlSgp_03yBKgTIcVKIHMkCl6UMlWL-b9z1g&s");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    margin-right: 5px;
+}
+
+
+.bike {
+    margin-top: 20px;
+    border:4px solid black;
+}
+
+.island {
+    border:4px solid black;
+}
