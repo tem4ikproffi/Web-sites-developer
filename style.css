@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightskyblue;
+    padding: 20px;
+}
+
+.link-header {
+    color: white;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    border-radius: 8px;
+    background-color: blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.link-header:hover {
+    background-color: aquamarine;
+    color:black;
+}
+
+.text-big {
+    text-align: center;
+}
+
+.link-text:hover {
+    color:lightcoral;
+}
+
+.computer {
+    margin-top:10px;
+}
+
+.link-navleft {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.link-navright {
+    text-decoration: none;
+    padding: 10px;
+}
+
+li:hover {
+    font-size: 20px;
+
+}
